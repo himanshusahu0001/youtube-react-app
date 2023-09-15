@@ -1,8 +1,7 @@
 # YouTube React App
 
 ## Live Link
-[https://backend-assessment-8fof.onrender.com/](https://youtube-react-app-jt48.onrender.com/)
-
+https://youtube-react-app-jt48.onrender.com/
 
 
 
