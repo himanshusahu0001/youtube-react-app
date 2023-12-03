@@ -1,7 +1,12 @@
 # YouTube React App
 
-## Live Link
-https://youtube-react-app-jt48.onrender.com/
+**Live Link**: https://youtube-react-app-jt48.onrender.com/
+
+**Tech Stack** : React, Node.js, Axiom ,YouTube API v3 
+* Developed a YouTube clone using **React** and the **YouTube API v3** from **RapidAPI** and Implemented **all core**
+YouTube **features**, including video browsing, search and playback
+* Built a **user-friendly interface** that is **responsive** and **Deployed** the application to Render hosting platform
+
 
 
 
